@@ -1,0 +1,3 @@
+install npm :- npm install
+express :- npm i express --save
+to run :- node index.js

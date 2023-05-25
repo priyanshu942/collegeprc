@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "email": "json-server",
+      "name": "typicode"
+    },
+    {
+      "name": "pet",
+      "email": "priyanshu9433@gmail.com",
+      "id": 2
+    }
+  ]
+}

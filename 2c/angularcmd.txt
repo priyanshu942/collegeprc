@@ -1,0 +1,3 @@
+to check- npm --version
+to install cli - npm install -g @angular/cli@latest
+to create project - ng new projectname
