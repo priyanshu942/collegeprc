@@ -1,0 +1,6 @@
+1st Dockerfile
+From node:alpine
+COPY . /story
+CMD node /story/ajinkya.js
+2nd ajinya.js in folder story
+console.log("docker build -t story .", "docker images","docker run ")
